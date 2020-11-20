@@ -1,4 +1,8 @@
 # 680
-Storage for my three projects for DSC 680 at Bellevue University
+Storage for my three projects for DSC 680 at Bellevue University. They are:
 
-The work will be separated by project utilizing individual folders.
+- Stock Volatility
+- Congressional Reapportionment 
+- Auto Sale Lost During 2Q20
+
+
